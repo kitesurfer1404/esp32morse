@@ -25,7 +25,7 @@ BOM
 * 2x16 Character LCD w/ I2C-interface
 * Jumper Cables
 * TRS-plug (optional)
-* 3D printed Base Plate (optional)
+* [3D printed Base Plate](baseplate) (optional)
 * 4x M3x10 screws to mount the display (optional)
 * Double Sided Tape (optional)
 
