@@ -35,7 +35,7 @@ BOM
 Schematic
 ---------
 
-* TODO
+![ESP32Morse Schematic](images/esp32morse_schematic.png)
 
 
 Code
@@ -54,12 +54,12 @@ Step 1: Solder the pinheaders.
 Step 2: Wire everything.
 **NOTE: The pins are labeled on the underside of the ESP32 board.**
 
-* TRRS breakout: orange wire from sleeve to pin 20 of the ESP32 board.
-* TRRS breakout: purple wire from tip to pin 21 of the ESP32 board.
+* TRRS breakout: orange wire from sleeve to pin 21 of the ESP32 board.
+* TRRS breakout: purple wire from tip to pin 20 of the ESP32 board.
 * LCD: black wire from GND to GND of the ESP32 board.
 * LCD: red wire from VCC to 5V of the ESP32 board.
+* LCD: yellow wire from SCL to pin 9 of the ESP32 board.
 * LCD: green wire from SDA to pin 8 of the ESP32 board.
-* LCD: white wire from SCL to pin 9 of the ESP32 board.
 * Speaker: blue wire from + to pin 6 of the ESP32 board.
 * Speaker: gray wire from - to pin 5 of the ESP32 board.
 
