@@ -36,6 +36,11 @@ Install ESP32 via boards manager (if not done before)
   3. Search for "esp32"
   4. Install "esp32" by Espressif Systems
 
+Install LiquidCrystal I2C library
+  1. Select the library manager on the right
+  2. Search for "LiquidCrystal I2C"
+  3. Install the "LiquidCrystal I2C" library by Frank de Brabander
+
 Select Board
   1. Select Tools > Board > esp32 > Nologo ESP32C3 Super Mini
   2. Use default settings for this board
