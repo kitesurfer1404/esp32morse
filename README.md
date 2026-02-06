@@ -75,3 +75,10 @@ Step 5: Mount everything to the base plate (optional)
 * Use double sided tape to stick ESP32 and TRRS to the baseplate.
 * The speaker will friction fit.
 * Screw LCD to the baseplate using 4x M3x10 screws.
+
+
+Links to 3rd party morse keys
+-----------------------------
+
+* https://www.thingiverse.com/thing:7289028
+* https://www.thingiverse.com/thing:6569884
